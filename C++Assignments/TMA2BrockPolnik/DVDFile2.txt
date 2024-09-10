@@ -1,0 +1,100 @@
+The Godfather
+Francis Ford Coppola
+R
+Very good
+Like new
+The Dark Knight
+Christopher Nolan
+PG-13
+Good
+Good
+Forrest Gump
+Robert Zemeckis
+PG-13
+Fair
+Fair
+Inception
+Christopher Nolan
+PG-13
+Good
+Like new
+The Silence of the Lambs
+Jonathan Demme
+R
+Good
+Good
+The Lord of the Rings: The Fellowship of the Ring
+Peter Jackson
+PG-13
+Very good
+Very good
+The Matrix
+Lana Wachowski, Lilly Wachowski
+R
+Fair
+Fair
+Titanic
+James Cameron
+PG-13
+Good
+Good
+Goodfellas
+Martin Scorsese
+R
+Fair
+Fair
+Schindler's List
+Steven Spielberg
+R
+Very good
+Very good
+The Departed
+Martin Scorsese
+R
+Good
+Like new
+Pulp Fiction
+Quentin Tarantino
+R
+Fair
+Fair
+Fight Club
+David Fincher
+R
+Fair
+Fair
+The Shawshank Redemption
+Frank Darabont
+R
+Very good
+Like new
+Star Wars: Episode IV - A New Hope
+George Lucas
+PG
+Fair
+Fair
+Jurassic Park
+Steven Spielberg
+PG-13
+Fair
+Fair
+The Green Mile
+Frank Darabont
+R
+Very good
+Very good
+The Lion King
+Roger Allers, Rob Minkoff
+G
+Fair
+Fair
+The Terminator
+James Cameron
+R
+Good
+Good
+Braveheart
+Mel Gibson
+R
+Fair
+Fair

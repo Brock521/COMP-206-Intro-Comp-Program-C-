@@ -1,0 +1,50 @@
+The Godfather
+Francis Ford Coppola
+R
+Good
+Like New
+Citizen Kane
+Orson Welles
+PG
+Fair
+Good
+Pulp Fiction
+Quentin Tarantino
+R
+Good
+Acceptable
+Schindler's List
+Steven Spielberg
+R
+Acceptable
+Fair
+The Shawshank Redemption
+Frank Darabont
+R
+Good
+Like New
+Goodfellas
+Martin Scorsese
+R
+Acceptable
+Good
+Forrest Gump
+Robert Zemeckis
+PG-13
+Good
+Acceptable
+The Dark Knight
+Christopher Nolan
+PG-13
+Like New
+Good
+12 Angry Men
+Sidney Lumet
+PG
+Acceptable
+Fair
+Jaws
+Steven Spielberg
+PG
+Good
+Acceptable

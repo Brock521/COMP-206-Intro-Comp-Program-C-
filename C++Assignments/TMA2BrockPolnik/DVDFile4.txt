@@ -1,0 +1,100 @@
+1
+Director A
+R
+Good
+Good
+2
+Director B
+PG-13
+Like new
+Like new
+3
+Director C
+PG
+Fair
+Fair
+4
+Director D
+R
+Very good
+Very good
+5
+Director E
+PG-13
+Good
+Good
+6
+Director F
+R
+Fair
+Fair
+7
+Director G
+PG-13
+Good
+Good
+8
+Director H
+R
+Like new
+Like new
+9
+Director I
+PG
+Very good
+Very good
+10
+Director J
+R
+Fair
+Fair
+11
+Director K
+PG-13
+Good
+Good
+12
+Director L
+R
+Like new
+Like new
+13
+Director M
+PG
+Fair
+Fair
+14
+Director N
+R
+Good
+Good
+15
+Director O
+PG-13
+Very good
+Very good
+16
+Director P
+R
+Fair
+Fair
+17
+Director Q
+PG
+Good
+Good
+18
+Director R
+R
+Like new
+Like new
+19
+Director S
+PG-13
+Fair
+Fair
+20
+Director T
+R
+Very good
+Very good
